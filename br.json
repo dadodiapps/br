@@ -1,0 +1,22 @@
+{"success":true,"message":"","radios":
+[
+
+{"number":"1","name":"Transcontinental FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/br/master/trans.jpg","streamUrl":"http://ice1.crossradio.com.br:8198/live.aac","yourmuzeId":"0","state":"1"},
+{"number":"2","name":"Band FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/br/master/band.jpg","streamUrl":"http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"3","name":"Nativa FM 95.3","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/br/master/nativa95.jpg","streamUrl":"http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"4","name":"VIDA FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/br/master/vida.jpg","streamUrl":"http://srv6.streamjei.com.br:7446/stream","yourmuzeId":"0","state":"1"},
+{"number":"5","name":"Alpha FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/br/master/alpha.jpg","streamUrl":"https://streamingv2.shoutcast.com/alphafmsp","yourmuzeId":"0","state":"1"},
+{"number":"6","name":"Radio 105FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/br/master/radio105.jpg","streamUrl":"http://st1.midaweb.com.br:9746/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"7","name":"FM O Dia","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/br/master/fmodia.jpg","streamUrl":"http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"8","name":"Globo FM 90.1","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/br/master/br_globo90.jpg","streamUrl":"http://r6.ciclano.io:10009/stream","yourmuzeId":"0","state":"1"},
+{"number":"9","name":"Itatiaia","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/br/master/itatiaia.jpg","streamUrl":"http://a772c29b-fa64-46a6-ad66-2908c163b039.8903.brasilstream.com.br:8903/stream","yourmuzeId":"0","state":"1"},
+{"number":"10","name":"Gaucha","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/br/master/Gaucha.jpg","streamUrl":"https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"11","name":"Radio Globo RJ","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/br/master/br_globorj.jpg","streamUrl":"https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8","yourmuzeId":"0","state":"1"}
+
+
+],
+"country":{"id":"60","name":"bahrain","logo":"..\/..\/_upload\/_flags\/bahrain.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
+
+
+
+
